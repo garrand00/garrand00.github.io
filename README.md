@@ -1,4 +1,4 @@
-## 5e.tools
+## Garrand's Knowledge Emporium
 
 Visit the [main site](https://5e.tools/index.html) or go to the unofficial GitHub [mirror](index.html).
 
